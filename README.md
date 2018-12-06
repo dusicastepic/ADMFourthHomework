@@ -1,4 +1,7 @@
 # ADMFourthHomework
+Rendered version of project (same graphs visible only here)
+http://nbviewer.jupyter.org/github/dusicastepic/ADMFourthHomework/blob/master/Clustering%20part.ipynb
+
 
 # TO do list:
 
