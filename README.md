@@ -1,8 +1,9 @@
 # Homework 4
 
-The rendered version of Clustering part of the project (some graphs visible only here)
-http://nbviewer.jupyter.org/github/dusicastepic/ADMFourthHomework/blob/master/Clustering%20part.ipynb
-
+The rendered version of the entire project is divided in three parts (some graphs visible only here)
+- [Scraping](https://nbviewer.jupyter.org/github/dusicastepic/ADMFourthHomework/blob/master/Scraper.ipynb)
+- [Clustering](https://nbviewer.jupyter.org/github/dusicastepic/ADMFourthHomework/blob/master/Clustering%20part.ipynb)
+- [Hashing](https://nbviewer.jupyter.org/github/dusicastepic/ADMFourthHomework/blob/master/Hashing.ipynb)
 
 The goal of the first part of this project was to do the scrapping of the announcements from the [immobiliare.it](https://www.immobiliare.it) website and do the clustering. In the second part of this project, the aim was to define a hash function that associates a value to each string(from given file with passwords) and checks whether there are some duplicate strings.  
 
@@ -45,7 +46,6 @@ The repository consists of the following files:
 1. __`Clustering part.ipynb`__: 
      > A Jupyter notebook which provides the code of the Clustering part of the project.
       
-            
 2. __`Hashing.ipynb`__:
       > A Jupyter notebook which provides the code of the Hashing part of the project.
 
